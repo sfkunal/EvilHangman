@@ -1,2 +1,2 @@
 # EvilHangman
-An at-home Stanford Nifty CS2 project
+An at-home Stanford Nifty CS2 project. 
